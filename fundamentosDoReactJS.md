@@ -15,4 +15,4 @@
 
 - AngularJS, Vue, React, Aurelia, ...
 - Quando o browser acessa uma rota, o back-end busca no banco de dados, porém não tem mais todas as instruções para construção do HTML, JS e CSS da página, ou seja, o back-end não fica mais responsável pela construção visual da tela; ele vai apenas retornar todas as informações necessárias para mostrar em tela no modelo JSON (JavaScript Object Notation).
-- Temos então uma segunda aplicação: a aplicação front-end, responsável por obter os dados em JSON e convertê-los para HTML, CSS e JS.
+- Temos então uma segunda (ou v�rias) aplicação: a aplicação front-end, responsável por obter os dados em JSON e convertê-los para HTML, CSS e JS.

@@ -15,4 +15,8 @@
 - Ferramentas que convertem o código de um formato para outro, de uma versão para outra.
 - Ex.: Babel.
 
+Observações: 
+- caniuse.com > Mostra o que os browsers suportam ou não (JS)
+. Vite é um servidor de desenvolvimento local que possui suporte para TypeScript e JSX; ele usa Rollup e ESbuild internamente para 'empacotamento' (usa os ES modules de cada browser)
+
 
