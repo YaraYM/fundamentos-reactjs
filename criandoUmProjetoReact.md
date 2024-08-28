@@ -41,6 +41,12 @@ Rodar o projeto: npm run dev
     - A grande "vantagem" é que você pode dar o nome desse componente na importação, e não na exportação
   - export function Post() {} > Named export
 
+    ## Quando criar um componente?
+
+      - Quando alguma coisa repete muito em tela (DRY = dont repeat yourself)
+      - Quando conseguimos tirar algo de um componente maior sem que o componente maior pare de funcionar
+
+
 # Propriedades
 
 - Propriedades são informações que podemos passar para componentes
