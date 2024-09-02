@@ -52,3 +52,23 @@ Rodar o projeto: npm run dev
 - Propriedades são informações que podemos passar para componentes
 - São os atributos no contexto de componentes no React
 - As propriedades são acessadas como parâmetros da função
+
+# Quiz - Estrutura da aplicação
+
+1) No React, qual o lugar ideal para se importar o CSS dos componentes?
+  - Nos arquivos jsx
+
+2) No CSS, qual é uma das formas de resolver o problema de escopo?
+  - Com módulos CSS
+
+3) Qual das opções é a forma correta de nomeação de um componente?
+  - Header (com a primeira letra maiúscula)
+
+4) Qual a forma correta de se nomear um arquivo CSS escopado?
+  - *.module.css
+
+5) Qual a forma que utilizamos para importar um arquivo de módulo CSS?
+  - import styles from ?./styles.module.css?;
+
+6) Nas tags HTML no React, como comumente utilizamos a escrita dos atributos?
+  - Em camelCase 
